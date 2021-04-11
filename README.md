@@ -7,9 +7,9 @@ Features:
   1. Media player 
   
     Doublue click on the pet and search for anything
-    example:                          "Lofi hip pop music"
-    example with commands:            "lofi music random"
-    example with muiltiple commands:  "Lofi music loop video random"
+    "Lofi hip pop music" (example with no command)
+    "lofi music random" (example with command)
+    "Lofi music loop video random" (example with muiltiple commands)
     
     commands:
     loop (this will loop the current song or video)
