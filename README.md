@@ -3,7 +3,7 @@
 Install DeskPet
 
 Features:
-=====================================================================
+
   1. Media player 
   
     Doublue click on the pet and search for anything
@@ -21,16 +21,13 @@ Features:
     video loop (looping one video)
     random video (play a random video)
     
-=====================================================================
   2. Interactable 
     
     Pet can be draged and droped anywhere on the screen
     Left click on it to interact with it
     Bring carrots to feed it
     
-=====================================================================
   3. Controls 
     
     Left click on the pet to bring up application menu
     
-=====================================================================
